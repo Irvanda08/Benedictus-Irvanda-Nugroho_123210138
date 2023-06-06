@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/USER/OneDrive/Documents/IRVAN/SEM%204/Prak%20PBO/responsi_prakpbo/src/model/akun.java</file>
+            <file>file:/C:/Users/USER/OneDrive/Documents/IRVAN/SEM%204/Prak%20PBO/responsi_prakpbo/src/DAO/akunDAO.java</file>
+            <file>file:/C:/Users/USER/OneDrive/Documents/IRVAN/SEM%204/Prak%20PBO/responsi_prakpbo/src/view/loginview.java</file>
+            <file>file:/C:/Users/USER/OneDrive/Documents/IRVAN/SEM%204/Prak%20PBO/responsi_prakpbo/src/view/adminview.java</file>
+            <file>file:/C:/Users/USER/OneDrive/Documents/IRVAN/SEM%204/Prak%20PBO/responsi_prakpbo/src/DAO/roomDAO.java</file>
+            <file>file:/C:/Users/USER/OneDrive/Documents/IRVAN/SEM%204/Prak%20PBO/responsi_prakpbo/src/controller/roomcontroller.java</file>
+            <file>file:/C:/Users/USER/OneDrive/Documents/IRVAN/SEM%204/Prak%20PBO/responsi_prakpbo/src/koneksi/koneksi.java</file>
+            <file>file:/C:/Users/USER/OneDrive/Documents/IRVAN/SEM%204/Prak%20PBO/responsi_prakpbo/src/controller/rentercontroller.java</file>
+            <file>file:/C:/Users/USER/OneDrive/Documents/IRVAN/SEM%204/Prak%20PBO/responsi_prakpbo/src/model/room.java</file>
+            <file>file:/C:/Users/USER/OneDrive/Documents/IRVAN/SEM%204/Prak%20PBO/responsi_prakpbo/src/DAO/renterDAO.java</file>
+            <file>file:/C:/Users/USER/OneDrive/Documents/IRVAN/SEM%204/Prak%20PBO/responsi_prakpbo/src/view/roomview.java</file>
+            <file>file:/C:/Users/USER/OneDrive/Documents/IRVAN/SEM%204/Prak%20PBO/responsi_prakpbo/src/DAOImplements/implements_renter.java</file>
+            <file>file:/C:/Users/USER/OneDrive/Documents/IRVAN/SEM%204/Prak%20PBO/responsi_prakpbo/src/view/renterview.java</file>
+            <file>file:/C:/Users/USER/OneDrive/Documents/IRVAN/SEM%204/Prak%20PBO/responsi_prakpbo/src/controller/editcontroller.java</file>
+            <file>file:/C:/Users/USER/OneDrive/Documents/IRVAN/SEM%204/Prak%20PBO/responsi_prakpbo/src/controller/admincontroller.java</file>
+            <file>file:/C:/Users/USER/OneDrive/Documents/IRVAN/SEM%204/Prak%20PBO/responsi_prakpbo/src/model/renter.java</file>
+            <file>file:/C:/Users/USER/OneDrive/Documents/IRVAN/SEM%204/Prak%20PBO/responsi_prakpbo/src/view/viewresponsi.java</file>
+            <file>file:/C:/Users/USER/OneDrive/Documents/IRVAN/SEM%204/Prak%20PBO/responsi_prakpbo/src/controller/logincontroller.java</file>
+        </group>
+    </open-files>
+</project-private>
